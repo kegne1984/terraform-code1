@@ -1,0 +1,6 @@
+my-region     = "us-east-1"
+profile       = "default"
+topic_name    = "sns-dev"
+Team          = "Dev"
+protocol_type = "email"
+end_point     = "panneberthe@gmail.com"
